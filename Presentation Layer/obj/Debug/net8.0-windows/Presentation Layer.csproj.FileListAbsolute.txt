@@ -1,0 +1,22 @@
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Gameshop Tool\Presentation Layer\bin\Debug\net8.0-windows\Presentation Layer.exe
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Gameshop Tool\Presentation Layer\bin\Debug\net8.0-windows\Presentation Layer.deps.json
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Gameshop Tool\Presentation Layer\bin\Debug\net8.0-windows\Presentation Layer.runtimeconfig.json
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Gameshop Tool\Presentation Layer\bin\Debug\net8.0-windows\Presentation Layer.dll
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Gameshop Tool\Presentation Layer\bin\Debug\net8.0-windows\Presentation Layer.pdb
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Gameshop Tool\Presentation Layer\bin\Debug\net8.0-windows\Business Layer.dll
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Gameshop Tool\Presentation Layer\bin\Debug\net8.0-windows\Data Access Layer.dll
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Gameshop Tool\Presentation Layer\bin\Debug\net8.0-windows\Business Layer.pdb
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Gameshop Tool\Presentation Layer\bin\Debug\net8.0-windows\Data Access Layer.pdb
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Gameshop Tool\Presentation Layer\obj\Debug\net8.0-windows\Presentation Layer.csproj.AssemblyReference.cache
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Gameshop Tool\Presentation Layer\obj\Debug\net8.0-windows\Presentation_Layer.Form1.resources
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Gameshop Tool\Presentation Layer\obj\Debug\net8.0-windows\Presentation Layer.csproj.GenerateResource.cache
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Gameshop Tool\Presentation Layer\obj\Debug\net8.0-windows\Presentation Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Gameshop Tool\Presentation Layer\obj\Debug\net8.0-windows\Presentation Layer.AssemblyInfoInputs.cache
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Gameshop Tool\Presentation Layer\obj\Debug\net8.0-windows\Presentation Layer.AssemblyInfo.cs
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Gameshop Tool\Presentation Layer\obj\Debug\net8.0-windows\Presentation Layer.csproj.CoreCompileInputs.cache
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Gameshop Tool\Presentation Layer\obj\Debug\net8.0-windows\Presenta.B0A29D85.Up2Date
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Gameshop Tool\Presentation Layer\obj\Debug\net8.0-windows\Presentation Layer.dll
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Gameshop Tool\Presentation Layer\obj\Debug\net8.0-windows\refint\Presentation Layer.dll
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Gameshop Tool\Presentation Layer\obj\Debug\net8.0-windows\Presentation Layer.pdb
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Gameshop Tool\Presentation Layer\obj\Debug\net8.0-windows\Presentation Layer.genruntimeconfig.cache
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Gameshop Tool\Presentation Layer\obj\Debug\net8.0-windows\ref\Presentation Layer.dll
